@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+header {
+  background: #f8f8f8;
+  padding: 10px;
+}
+nav a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #0077cc;
+}
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+section.project {
+  margin-bottom: 40px;
+}

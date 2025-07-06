@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Job S. – GIS Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Job S.</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="portfolio.html">Portfolio</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Welcome</h2>
+    <p>I’m a Geo-Information Science student specializing in GIS, remote sensing, and spatial data visualization. Below you'll find my selected projects.</p>
+  </main>
+</body>
+</html>
